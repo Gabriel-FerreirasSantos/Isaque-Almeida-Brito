@@ -17,9 +17,9 @@
 
 <div style="display: flex;"> 
 <a href="https://github.com/Isaque-Almeida-Brito/github-readme-stats%22%3E
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isaque-Almeida-Brito&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaque-Almeida-Brito&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/Isaque-Almeida-Brito/convoychat%22%3E
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isaque-Almeida-Brito&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaque-Almeida-Brito&repo=convoychat" />
 </a>
 <div/>
