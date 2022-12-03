@@ -16,7 +16,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaque-Almeida-Brito&show_icons=true&theme=transparent)
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Isaque-Almeida-Brito">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaque-Almeida-Brito&repo=convoychat" />
 </a>
 
