@@ -14,10 +14,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pitao" width="40" height="40" style="max - width:100%;"></img>
 <br>
 
-<div align="center">
-  <a href="https://github.com/Gabriel-FerreirasSantos%22%3E
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-FerreirasSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-FerreirasSantos&layout=compact&langs_count=7&theme=dark%22/%3E
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-Almeida-Brito=compact)](https://github.com/anuraghazra/github-readme-stats)
