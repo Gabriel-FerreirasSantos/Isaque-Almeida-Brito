@@ -15,8 +15,11 @@
 <br>
 
 
-<div align="center" style="display: flex;"> 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaque-Almeida-Brito&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-Almeida-Brito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex;"> 
+<a href="https://github.com/Isaque-Almeida-Brito/github-readme-stats%22%3E
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isaque-Almeida-Brito&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Isaque-Almeida-Brito/convoychat%22%3E
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isaque-Almeida-Brito&repo=convoychat" />
+</a>
 <div/>
