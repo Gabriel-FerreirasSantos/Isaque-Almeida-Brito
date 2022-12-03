@@ -15,11 +15,9 @@
 <br>
 
 
-<div style="display: flex;"> 
 <a href="https://github.com/Isaque-Almeida-Brito
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaque-Almeida-Brito&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/Isaque-Almeida-Brito
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaque-Almeida-Brito&repo=convoychat" />
 </a>
-<div/>
