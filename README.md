@@ -14,10 +14,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pitao" width="40" height="40" style="max - width:100%;"></img>
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaque-Almeida-Brito&show_icons=true&theme=transparent)
 
-<a href="https://github.com/Isaque-Almeida-Brito
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaque-Almeida-Brito&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Isaque-Almeida-Brito
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaque-Almeida-Brito&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-Almeida-Brito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
