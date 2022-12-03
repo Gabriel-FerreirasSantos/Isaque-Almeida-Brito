@@ -16,8 +16,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaque-Almeida-Brito&show_icons=true&theme=transparent)
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/f09f9978-e6e0-4732-86b0-5b81565b8837.svg)](https://wakatime.com/@f09f9978-e6e0-4732-86b0-5b81565b8837)
