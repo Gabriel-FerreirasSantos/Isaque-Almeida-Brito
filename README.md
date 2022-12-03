@@ -15,7 +15,7 @@
 <br>
 
 <a href="https://github.com/Isaque-Almeida-Brito">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaque-Almeida-Brito&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaque-Almeida-Brito&repo=github" />
 </a>
 <a href="https://github.com/Isaque-Almeida-Brito">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaque-Almeida-Brito&repo=convoychat" />
