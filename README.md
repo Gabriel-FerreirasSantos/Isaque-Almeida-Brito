@@ -7,12 +7,14 @@
 <hr/>
 <h2> Estou me dedicando atualmento as seguintes linguagens 📓 <h2/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="40" width="60" height="60" style="max - width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="40" width="60" height="60" style="max - width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="40" width="60" height="60" style="max - width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thealgorithms/thealgorithms-original.svg" alt="rails" width="40" height="40" style="max - width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pitao" width="60" height="60" style="max - width:100%;"></img>
-<br>
+<div style="display:flex;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="40" width="60" height="60" style="max - width:100%;"></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="40" width="60" height="60" style="max - width:100%;"></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="40" width="60" height="60" style="max - width:100%;"></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thealgorithms/thealgorithms-original.svg" alt="rails" width="40" height="40" style="max - width:100%;"></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pitao" width="60" height="60" style="max - width:100%;"></img>
+    <br>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaque-Almeida-Brito&show_icons=true&theme=transparent)
 
