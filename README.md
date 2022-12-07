@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-Almeida-Brito)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Isaque-Almeida-Brito">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaque-Almeida-Brito&repo=convoychat" />
 </a>
 
